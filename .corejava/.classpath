@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="v1ch05"/>
+	<classpathentry kind="src" path="v1ch06"/>
+	<classpathentry kind="src" path="v1ch07"/>
+	<classpathentry kind="src" path="v1ch08"/>
+	<classpathentry kind="src" path="v1ch09"/>
+	<classpathentry kind="src" path="v1ch10"/>
+	<classpathentry kind="src" path="v1ch11"/>
+	<classpathentry kind="src" path="v1ch12"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
